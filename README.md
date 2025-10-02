@@ -19,7 +19,7 @@ Always researching, always improving 🚀
 
 | **Frontend** | **Backend** | **Databases** | **Tools & DevOps** |
 |--------------|-------------|---------------|---------------------|
-| React, Next.js, TailwindCSS, TypeScript | Django, DRF, Node.js, Express | PostgreSQL, MySQL, SQLite, Supabase | Git/GitHub, Docker, Postman, CI/CD |
+| React, Next.js, TailwindCSS, TypeScript | Django,  | PostgreSQL, MySQL, SQLite, Supabase | Git/GitHub, Docker, Postman, CI/CD |
 
 ---
 
