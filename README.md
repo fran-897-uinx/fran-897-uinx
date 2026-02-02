@@ -1,66 +1,62 @@
-# 👋 Welcome, I'm CodeSmith  
+# 👋 Hi, I’m CodeSmith (Francis Prevail)
 
 💻 **Full-Stack Web Developer | Systems Thinker | Software Craftsman**  
 
-I design and develop **scalable, maintainable, and user-centric web applications**, combining theory, engineering principles, and modern frameworks.  
-Always researching, always improving 🚀  
+I design **scalable, maintainable, and user-centric web applications**, combining engineering principles, modern frameworks, and data-driven insights.  
+Always learning, iterating, and improving 🚀  
 
 ---
 
-## 🧭 Areas of Focus  
-- **Web Engineering** – Building high-performance, modular applications.  
-- **Software Architecture** – Applying design patterns & clean code principles.  
-- **Data-Driven Applications** – Analytics, APIs, and real-time dashboards.  
-- **Human–Computer Interaction (HCI)** – Creating accessible, intuitive user experiences.  
+## 🧭 Areas of Expertise
+- **Web Engineering** – High-performance, modular apps  
+- **Software Architecture** – Clean code, design patterns, scalable systems  
+- **Data-Driven Applications** – APIs, analytics, dashboards  
+- **Human–Computer Interaction (HCI)** – Accessible, intuitive UI/UX  
 
 ---
 
-## 🛠️ Technical Proficiencies  
+## 🛠️ Tech Stack
 
 | **Frontend** | **Backend** | **Databases** | **Tools & DevOps** |
-|--------------|-------------|---------------|---------------------|
-| React, Next.js, TailwindCSS, TypeScript | Django,  | PostgreSQL, MySQL, SQLite, Supabase | Git/GitHub, Docker, Postman, CI/CD |
+|--------------|-------------|---------------|------------------|
+| React, Next.js, TailwindCSS, TypeScript | Django, Python, Node.js | PostgreSQL, MySQL, SQLite, Supabase | Git/GitHub, Docker, Postman, CI/CD, Nginx |
 
 ---
 
-## 📂 Selected Works  
+## 📂 Selected Projects
 
-- 🛍️ **E-Commerce Infrastructure** → Authentication, cart, payments, and analytics.  
-- 📊 **Interactive Dashboards** → Real-time visualizations for decision-making.  
-- 🌐 **Portfolio Framework** → Reusable Next.js + Tailwind template for developers.  
-
----
-
-## 📊 Scholarly Metrics  
-
-### 🔹 GitHub Contributions  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fran-897-uinx&show_icons=true&theme=transparent)  
-![Language Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=fran-897-uinx&layout=compact&theme=transparent)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fran-897-uinx&theme=transparent)  
+- 🛍️ **E-Commerce Platform** – Full-featured authentication, cart, payments, and analytics  
+- 📊 **Interactive Dashboards** – Real-time visualizations for decision-making  
+- 🌐 **Portfolio Framework** – Reusable Next.js + Tailwind template  
+- ⚡ **Automation Scripts** – Python & PowerShell tools for efficiency and systems management  
 
 ---
 
-### 🔹 Research & Open-Source Recognition  
-![Trophies](https://github-profile-trophy.vercel.app/?username=fran-897-uinx&theme=flat&no-frame=true&margin-w=10)  
+## 📊 GitHub Stats (Self-Hosted / Reliable)
+
+> ⚠️ Deploy your own version of [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and replace `YOUR_DEPLOY_URL` below
+
+![GitHub Stats](YOUR_DEPLOY_URL/api?username=fran-897-uinx&show_icons=true&theme=radical)  
+![Top Languages](YOUR_DEPLOY_URL/api/top-langs/?username=fran-897-uinx&layout=compact&theme=radical)  
 
 ---
 
-### 🔹 Code Analytics  
-- **Repositories Published:** XX  
-- **Commit Activity:** ~XX commits/month  
-- **Primary Languages:** Python, JavaScript/TypeScript, SQL, CSS  
-- **Domain Weight:** Full-Stack Web Development (65%)  
+## ⚡ Quick Metrics (Shields.io)
+![Repositories](https://img.shields.io/github/repo-size/fran-897-uinx?style=for-the-badge)  
+![Followers](https://img.shields.io/github/followers/fran-897-uinx?style=for-the-badge)  
+![Top Language](https://img.shields.io/github/languages/top/fran-897-uinx?style=for-the-badge)  
 
 ---
 
-### 🔹 Academic-Style Indicators  
-- **Mentorship & Collaboration** – Guided junior developers through open-source contributions.  
-- **Knowledge Dissemination** – Authored tutorials & technical documentation.  
-- **Experimentation & Prototyping** – Developed proof-of-concepts validated through iteration.  
+## 🧩 Highlights
+
+- **Mentorship & Collaboration** – Guided junior devs in open-source contributions  
+- **Knowledge Sharing** – Authored tutorials & documentation  
+- **Rapid Prototyping** – Built proof-of-concepts validated via iteration  
 
 ---
 
-## 📫 Connect  
+## 📫 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://francisdav.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-prevail-39b800359/)  
@@ -68,4 +64,4 @@ Always researching, always improving 🚀
 
 ---
 
-⭐️ From [CodeSmith](https://github.com/fran-897-uinx)  
+⭐️ Crafted with ❤️ by [CodeSmith](https://github.com/fran-897-uinx)
