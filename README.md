@@ -110,6 +110,12 @@ These reflect how I think:
 ![Stars](https://img.shields.io/github/stars/fran-897-uinx?style=for-the-badge)
 
 ---
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fran-897-uinx&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fran-897-uinx&layout=compact&theme=tokyonight" height="170" />
+</p>
+---
 
 ## 📫 Reach Me
 
