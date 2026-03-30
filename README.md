@@ -101,28 +101,14 @@ These reflect how I think:
 - **Consistency beats perfection**
 - **Simple solutions age better**
 
----
 
-## 📊 GitHub Snapshot
-
-![Top Language](https://img.shields.io/github/languages/top/fran-897-uinx?style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/fran-897-uinx?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/fran-897-uinx?style=for-the-badge)
-
----
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codesmith&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fran-897-uinx&layout=compact&theme=tokyonight" height="170" />
-</p>
----
 
 ## 📫 Reach Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://francisdav.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-prevail-39b800359/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-david-7code/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prevailfrancis@gmail.com)
 
 ---
 
-Built deliberately by [CodeSmith](https://github.com/fran-897-uinx)
+Built deliberately by [CodeSmith](https://github.com/DeFrancis-unix27)
